@@ -1,3 +1,6 @@
+#Vous pouvez utiliser cette phrase comme exemple:Le radar du port détectait chaque bateau entrant. Même dans le brouillard, il permettait de naviguer en toute sécurité
+
+
 def analyse_lexical(texte):
     #Frequence des mots
     texte = texte.lower()
