@@ -1,3 +1,4 @@
+#Vous trouverez une video demonstrative de la plateforme dans "video_demo.mp4"
 import tkinter as tk
 from tkinter import ttk, messagebox
 from database import *
